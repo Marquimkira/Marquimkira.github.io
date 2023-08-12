@@ -1,3 +1,29 @@
+secti on{
+    border: 3px solid blue;
+}
+header{
+    bor der: 3px solid orange;
+    text-align: center;
+}
+h1{
+    color: greenyellow;
+}
+asid e{
+    border: 3px solid red;
+}
 img{
     width: 250px;
+    border: 5px solid greenyellow;
+    border-radius: 50%;
+
+}
+body{
+    background-color: black;
+    color: white;
+}
+.lista-ordena da{
+    border: 3px solid purple;
+}
+o l{
+    border: 3px solid orange;
 }
